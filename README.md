@@ -1,3 +1,5 @@
+**NOTICE: This repository has been archived, and will no longer be maintained or accept pull requests.**
+
 ## Sensor Simulation Custom Device ##
 
 The **Sensor Simulation Custom Device** allows users to add FPGA sensor simulation functionality to their system definition file.  As the sensors supported are currently, LVDT, RVDT and Resolver, this functionality is commonly used for aerospace simulation.
